@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Mon Site</title>
+		<link>https://example.org/posts/</link>
+		<description>Recent content in Posts on Mon Site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 23 Oct 2026 23:40:56 +0200</lastBuildDate>
+		
+			<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Page02</title>
+				<link>https://example.org/posts/page02/</link>
+				<pubDate>Fri, 23 Oct 2026 23:40:56 +0200</pubDate>
+				<guid>https://example.org/posts/page02/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;images/wvache0.jpg&#34; alt=&#34;wvache0&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Premier Article</title>
+				<link>https://example.org/posts/premier-article/</link>
+				<pubDate>Thu, 22 Oct 2026 22:18:11 +0200</pubDate>
+				<guid>https://example.org/posts/premier-article/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
